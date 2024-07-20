@@ -12,6 +12,7 @@ To gain insights into the historical performance of Tesla's stock, we visualized
 
 Task 4: Data Preparation & Modelling
 We prepared the data for modelling by transforming it into the format required by Facebook Prophet. This involved renaming columns to 'ds' (date) and 'y' (value), handling missing values, and other preprocessing tasks.
+
 Task 5: Forecasting
 Using the Facebook Prophet model, we generated forecasts for Tesla's stock price. We trained the model on the historical data and made predictions for the next 30 days.
 
